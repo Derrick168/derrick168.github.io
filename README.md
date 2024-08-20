@@ -136,9 +136,9 @@ Web Hosting, eCommerce Website Design and Development, Python, Java, Javascript,
 Enjoy Cooking, Scuba Diving, Lifting, Playing Cello/Piano, Watching Movies, Playing Poker
 
 ## References
-- Stevenson Mental Health Promotion: StevensonMHP.com
+- Stevenson Mental Health Promotion: [StevensonMHP.com](https://stevensonmhp.com/)
 - Community Service Portfolio: [innerview.org/derricklee](https://innerview.org/derricklee)
-- Help our community to Donate and Resell:  DeclutterAndDonate.org, ★★★★★ Promotion Demo 
+- Help our community to Donate and Resell:  [DeclutterAndDonate.org](https://declutteranddonate.org/), [★★★★★ Promotion Demo](https://www.youtube.com/watch?v=b5ek72UU21w)
 - Swim Bio: swimcloud.com/swimmer/1495750  
                   swimmingrank.com/ii/strokes/strokes_il/DMEYRALGE_meets.html
 - GLASA Volunteer Coordinator: volunteer@glasa.org, glasa.org
