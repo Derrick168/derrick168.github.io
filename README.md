@@ -1,7 +1,7 @@
 ## Educational Objective
 I am deeply passionate about STEM, with interests ranging from chemistry to ecosystem water quality, physics to electrical circuit projects, dental science to biomedical research to food science, and website development to media creation. I am particularly fascinated by hands-on projects, where I can see tangible results. While coding intrigues me, the combination of building electrical, mechanical, mechatronic, and medical devices alongside coding perfectly aligns with my academic and career goals. This multidisciplinary approach satisfies my intellectual curiosity and positions me to make meaningful contributions in electrical and biomedical engineering. I am eager to pursue this path in my undergraduate studies, where I can further hone my skills and work toward innovative solutions that have a real-world impact.
-
-
+##   
+##   
 ## Experience
 ### Research Intern, Dept. of Radiation & Cellular Oncology, University of Chicago, IL, Apr 2024 - Present
 - Designed, built, & tested applications of restraint apparatuses for radiation therapy.
@@ -92,7 +92,7 @@ I am deeply passionate about STEM, with interests ranging from chemistry to ecos
   
 ### Georgetown University, Summer 2023
 - Medical Research: Clinical Trial Resulting in Medical Discoveries.
-- 
+  
 ### Rosetta Institute of Biomedical Research, Summer 2022
 - Cellular/Molecular Medicine Workshop.
 
@@ -104,39 +104,39 @@ I am deeply passionate about STEM, with interests ranging from chemistry to ecos
 - Full Instructional Piano.
   
 ## Honors and Awards
-National Merit Semifinalist 											         2024
-AP Scholar with Distinction											         2024
-HOSA National/International Qualifier										         2024
-2nd place for Mental Health Promotion and 3rd place for Dental Science at State - HOSA (Illinois)		           2023 - 2024
-Illinois State Scholar												         2024
-National Honor Society										           2023 - 2024
-IHSA Scholastic Achievement Award									           2022 - 2024
-3x National Community Service Ambassador Award (Highest level)					           2022 - 2024
-Gold President’s Volunteer Service Award	 							           2022 - 2023
-IHSA Sectional Boys Swim Champions									           2022 - 2024
-Central Zone Swimming North Sectional: Top 20 Finalist						          Summer 2021 - 2024
-Illinois State Swimming Senior Championship: Top 27 Finalist				                        Summer 2021 - 2024
-Illinois State Swimming Age Group: Top 16 Finalist		  		                       		        Summer 2021
-2nd Place at State for Boomilever and 5th Place at State  for Food Science- Science Olympia (Illinois)		May 2021
+- National Merit Semifinalist, 2024
+- AP Scholar with Distinction, 2024
+- HOSA National/International Qualifier, 2024
+- 2nd place for Mental Health Promotion and 3rd place for Dental Science at State - HOSA (Illinois), 2023 - 2024
+- Illinois State Scholar, 2024
+- National Honor Society, 2023 - 2024
+- IHSA Scholastic Achievement Award, 2022 - 2024
+- 3x National Community Service Ambassador Award (Highest level), 2022 - 2024
+- Gold President’s Volunteer Service Award, 2022 - 2023
+- IHSA Sectional Boys Swim Champions, 2022 - 2024
+- Central Zone Swimming North Sectional: Top 20 Finalist, Summer 2021 - 2024
+- Illinois State Swimming Senior Championship: Top 27 Finalist, Summer 2021 - 2024
+- Illinois State Swimming Age Group: Top 16 Finalist, Summer 2021
+- 2nd Place at State for Boomilever and 5th Place at State  for Food Science- Science Olympia (Illinois), May 2021
 
-CERTIFICATIONS
-Mental Health Training of Be There’s 5 Golden Rules								 Mar 2024
-PADI Research Diver Certificate  	       	         								 Mar 2023
-Adult CPR and AED Certificate 	         									  Jan 2023
-American Red Cross Lifeguarding and First Aid Certificate  							 Dec 2022
-Coral Reef Conservation Training Certificate 									 Aug 2022
-PADI Open Water Scuba Diver Certificate  									 Mar 2022
+## Certifications
+- Mental Health Training of Be There’s 5 Golden Rules, Mar 2024
+- PADI Research Diver Certificate, Mar 2023
+- Adult CPR and AED Certificate, Jan 2023
+- American Red Cross Lifeguarding and First Aid Certificate, Dec 2022
+- Coral Reef Conservation Training Certificate, Aug 2022
+- PADI Open Water Scuba Diver Certificate, Mar 2022
 
-SCHOOL SPORT AND CLUBS
+## School Sport and Clubs
 Varsity Swim Team, HOSA International Team, Give-A-Thon fundraising, Student Ambassadors, Lillydahl Aquatic Leadership Academy, NHS, ACES/WYSE Team, Chemistry Club, Biology Olympiad, Key Club
 
-SKILLS
+## Skills
 Web Hosting, eCommerce Website Design and Development, Python, Java, Javascript, HTML, MySQL phpMyadmin, Autodesk Fusion, Inventor 3D CAD, CAD Modeling, MultiSim Circuit Design, Breadboard for Electronics and Circuits, Research, Fundraising, Analytical Skills, Microsoft Word/Excel/PowerPoint
 
-INTERESTS
+## Interests
 Enjoy Cooking, Scuba Diving, Lifting, Playing Cello/Piano, Watching Movies, Playing Poker
 
-REFERENCES
+## References
 Stevenson Mental Health Promotion: StevensonMHP.com
 Community Service Portfolio: innerview.org/derricklee
 Help our community to Donate and Resell:  DeclutterAndDonate.org, ★★★★★ Promotion Demo 
