@@ -44,15 +44,7 @@ I am deeply passionate about STEM, with interests ranging from chemistry to ecos
 - Set up the classrooms for the student sessions.
 
 ### Science Olympiad Coach, Woodlawn Middle School, IL, Aug 2021 - Feb 2023
-
-
-## Volunteering
-- Swim Coach & Event Organizer, GLASA (Great Lake Adaptive Sports Association), IL, 2020 - Present
-- Event Volunteer, Special Olympics Illinois, IL, 2022 - Present 
-- Fundraising Committee Director and Classroom Leader of Give-A-Thon, Stevenson High School, IL, 2021 - Present
-- Student Ambassadors, Stevenson High School, IL, 2022 - 2024
-- Coral Reef Restoration Volunteer & Research Assistant, CCRRP, Cancun, Mexico, 2022 - 2023
-
+- Organized and trained a group of 5 students for various events at regional and state meets.
 
 ## PROJECTS
 ### Applications of Restraint Apparatuses For Dupurtren’s Disease Patients Research Project
@@ -74,6 +66,13 @@ I am deeply passionate about STEM, with interests ranging from chemistry to ecos
 
 ### Illinois Institute of Technology, Dr. Segre, Sodium-Ion Batteries Performance Data Analysis
 - Sodium-ion batteries are popular for their lower cost and abundance compared to lithium. We tested various versions to identify the best performer and analyzed the data.
+
+## Volunteering
+- Swim Coach & Event Organizer, GLASA (Great Lake Adaptive Sports Association), IL, 2020 - Present
+- Event Volunteer, Special Olympics Illinois, IL, 2022 - Present 
+- Fundraising Committee Director and Classroom Leader of Give-A-Thon, Stevenson High School, IL, 2021 - Present
+- Student Ambassadors, Stevenson High School, IL, 2022 - 2024
+- Coral Reef Restoration Volunteer & Research Assistant, CCRRP, Cancun, Mexico, 2022 - 2023
 
 ## Education and Training
 ### Adlai Stevenson High School, 2021- 2025
