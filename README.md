@@ -1,6 +1,5 @@
 ## Educational Objective
-I am deeply passionate about STEM, with interests ranging from chemistry to ecosystem water quality, physics to electrical circuit projects, dental science to biomedical research to food science, and website development to media creation. I am particularly fascinated by hands-on projects, where I can see tangible results. While coding intrigues me, the combination of building electrical, mechanical, mechatronic, and medical devices alongside coding perfectly aligns with my academic and career goals. This multidisciplinary approach satisfies my intellectual curiosity and positions me to make meaningful contributions in 
-electrical and biomedical engineering. I am eager to pursue this path in my undergraduate studies, where I can further hone my skills and work toward innovative solutions that have a real-world impact.
+I am deeply passionate about STEM, with interests ranging from chemistry to ecosystem water quality, physics to electrical circuit projects, dental science to biomedical research to food science, and website development to media creation. I am particularly fascinated by hands-on projects, where I can see tangible results. While coding intrigues me, the combination of building electrical, mechanical, mechatronic, and medical devices alongside coding perfectly aligns with my academic and career goals. This multidisciplinary approach satisfies my intellectual curiosity and positions me to make meaningful contributions in electrical and biomedical engineering. I am eager to pursue this path in my undergraduate studies, where I can further hone my skills and work toward innovative solutions that have a real-world impact.
 
 
 ## Experience
@@ -58,7 +57,7 @@ electrical and biomedical engineering. I am eager to pursue this path in my unde
 ## PROJECTS
 ### Applications of Restraint Apparatuses For Dupurtren’s Disease Patients Research Project
 - Under the direction of Dr.Sohn, Medicine Duchossois Center for Advanced Medicine, University of Chicago.
-- Analyzed Radiation Therapy interference with Varian LINAC
+- Analyzed Radiation Therapy interference with Varian LINAC.
 - Worked on Dupuytren’s contracture – creating a customized/personalized mold using a 3D scanner/printer.
 - This work is proactively collaborating with UIC Design School.
   
@@ -77,24 +76,34 @@ electrical and biomedical engineering. I am eager to pursue this path in my unde
 - Sodium-ion batteries are popular for their lower cost and abundance compared to lithium. We tested various versions to identify the best performer and analyzed the data.
 
 ## Education and Training
-### * Adlai Stevenson High School, Lincolnshire, IL, 2021- 2025
-- 15 APs + Multivariable and Linear Algebra
+### Adlai Stevenson High School, 2021- 2025
+- Senior: Multivariable HN, Linear Algebra HN, AP Physics C: Mechanics, AP Physics C: Electricity and Magnetism, AP Stats, AP US Government, AP MacroEcon, AP MicroEcon, and AP Psychology.
+- Junior: AP Chemistry, AP CalculusBC, AP US History, AP Language, AP Chinese, and Electrical Engineering HN.
+- Sophomore: AP Biology, AP Physics1, AP Computer Science.
+- Freshman: Geometry HN (Not permitted to enroll in AP courses for all freshmen).	
   
-### * United States Military Academy at West Point, Summer Leaders Experience, Summer 2024
+### United States Military Academy at West Point, Summer 2024
+- Summer Leaders Experience
 - Highly selective program, 7% acceptance.
 - Immersed myself in cadet life - Rigorous training: academics, military exercises, and team-building
 - Developed leadership skills and experienced the comprehensive West Point environment.
   
-### * Stanford University, Machine Learning /AI for Healthcare Specialization Certificate, Summer 2024
+### Stanford University, Summer 2024
+- Machine Learning, AI for Healthcare Specialization Certificate.
+  
+### Georgetown University, Summer 2023
+- Medical Research: Clinical Trial Resulting in Medical Discoveries.
+- 
+### Rosetta Institute of Biomedical Research, Summer 2022
+- Cellular/Molecular Medicine Workshop.
 
-### * Georgetown University, Medical Research: Clinical Trial Resulting in Medical Discoveries, Summer 2023
+### MIT / Edx, Summer 2022
+- Essential Human Biology: Cells and Tissues.
 
-### * Rosetta Institute of Biomedical Research, Cellular/Molecular Medicine Workshop, Summer 2022
-
-### * MIT / Edx, Essential Human Biology: Cells and Tissues, Summer 2022
-
-### * Midwest Young Artists, Suzuki Cello (Book 1 to 8) and Piano, 2010 - 2024
-
+### Midwest Young Artists, 2010 - 2024
+- Suzuki Cello (Book 1 to 8).
+- Full Instructional Piano.
+  
 ## Honors and Awards
 National Merit Semifinalist 											         2024
 AP Scholar with Distinction											         2024
