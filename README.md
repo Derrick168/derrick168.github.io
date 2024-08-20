@@ -3,7 +3,7 @@ I am deeply passionate about STEM, with interests ranging from chemistry to ecos
 
 ## Experience
 ### Student Leadership Advisory Council, Stevenson High School, IL, Aug 2024 - Present
-- Facilitated communication between groups.
+- Provided communication between groups.
 - Served as an advisor to administration.
 - Presented ideas, concerns, and solutions for school improvement.
 - Acted as a sounding board for the community, administration, and faculty, exploring new ideas.
