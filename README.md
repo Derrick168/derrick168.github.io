@@ -75,9 +75,10 @@ I am deeply passionate about STEM, with interests ranging from chemistry to ecos
 
 ## Education and Training
 ### Adlai Stevenson High School, 2021- 2025
-- Senior: Multivariable HN, Linear Algebra HN, AP Physics C: Mechanics, AP Physics C: Electricity and Magnetism, AP Stats, AP US Government, AP MacroEcon, AP MicroEcon, and AP Psychology.
+- 15 APs and 5 Honor courses.
+- Senior: Multivariable HN, Linear Algebra HN, AP Physics C: Mechanics, AP Physics C: Electricity and Magnetism, AP Statistics, AP US Government, AP MacroEcon, AP MicroEcon, and AP Psychology.
 - Junior: AP Chemistry, AP CalculusBC, AP US History, AP Language, AP Chinese, and Electrical Engineering HN.
-- Sophomore: AP Biology, AP Physics1, AP Computer Science.
+- Sophomore: AP Biology, AP Physics1, AP Computer Science and Pre-CalculusBC HN.
 - Freshman: Geometry HN (Not permitted to enroll in AP courses for all freshmen).	
   
 ### United States Military Academy at West Point, Summer 2024
