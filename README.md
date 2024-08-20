@@ -139,16 +139,16 @@ Enjoy Cooking, Scuba Diving, Lifting, Playing Cello/Piano, Watching Movies, Play
 - Stevenson Mental Health Promotion: [StevensonMHP.com](https://stevensonmhp.com/)
 - Community Service Portfolio: [innerview.org/derricklee](https://innerview.org/derricklee)
 - Help our community to Donate and Resell:  [DeclutterAndDonate.org](https://declutteranddonate.org/), [★★★★★ Promotion Demo](https://www.youtube.com/watch?v=b5ek72UU21w)
-- Swim Bio: swimcloud.com/swimmer/1495750  
-                  swimmingrank.com/ii/strokes/strokes_il/DMEYRALGE_meets.html
-- GLASA Volunteer Coordinator: volunteer@glasa.org, glasa.org
-- Special Olympic Illinois Volunteer Coordinator: jkelso@soill.org, soill.org
-- West Point Summer Leadership Program:  Me on the Admission Instagram
-- Dr. James Sohn: biologicalsciences.uchicago.edu/faculty/jooyoung-sohn
-- Dr. Mendez’s CCRR Research Project: www.ccrrp.mx
-- Dr. Segre at IIT: iit.edu/directory/people/carlo-segre
-- Facebook.com/derrickleefacebook
-- DeclutterAndDonate.org/Derrickleeresume369258147
-- Linkedin.com/in/derrickinfo
-- youtube.com/@derricklee3178/videos
+- Swim Bio: [swimcloud.com/swimmer/1495750 ](https://www.swimcloud.com/swimmer/1495750/) 
+  [swimmingrank.com/ii/strokes/strokes_il/DMEYRALGE_meets.html](https://www.swimmingrank.com/ii/strokes/strokes_il/DMEYRALGE_meets.html)
+- GLASA Volunteer Coordinator: volunteer@glasa.org, [glasa.org](https://glasa.org/)
+- Special Olympic Illinois Volunteer Coordinator: jkelso@soill.org, [soill.org](https://www.soill.org/)
+- West Point Summer Leadership Program:  [Me featured on the Admissions Instagram](https://www.instagram.com/westpointadmissions/reel/C7__KPiOrdt/?hl=en)
+- Dr. James Sohn: [biologicalsciences.uchicago.edu/faculty/jooyoung-sohn](https://biologicalsciences.uchicago.edu/faculty/jooyoung-sohn)
+- Dr. Mendez’s CCRR Research Project: [www.ccrrp.mx](https://www.ccrrp.mx/)
+- Dr. Segre at IIT: [iit.edu/directory/people/carlo-segre](https://www.iit.edu/directory/people/carlo-segre)
+- [Derrick168.Github.io](https://derrick168.github.io/)
+- [Facebook.com/derrickleefacebook](https://www.facebook.com/derrickleefaceboo)
+- [Linkedin.com/in/derrickinfo](https://www.linkedin.com/in/derrickinfo/)
+- [YouTube.com/@derricklee3178/videos](https://www.youtube.com/@derricklee3178/videos)
   
