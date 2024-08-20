@@ -144,7 +144,7 @@ Enjoy Cooking, Scuba Diving, Lifting, Playing Cello/Piano, Watching Movies, Play
 - GLASA Volunteer Coordinator: volunteer@glasa.org, [glasa.org](https://glasa.org/)
 - Special Olympic Illinois Volunteer Coordinator: jkelso@soill.org, [soill.org](https://www.soill.org/)
 - West Point Summer Leadership Program:  [Me featured on the Admissions Instagram](https://www.instagram.com/westpointadmissions/reel/C7__KPiOrdt/?hl=en)
-- Dr. James Sohn: [biologicalsciences.uchicago.edu/faculty/jooyoung-sohn](https://biologicalsciences.uchicago.edu/faculty/jooyoung-sohn)
+- Dr. James Sohn: [SOHN LAB's](https://www.sohnlab.uchicago.edu/our-members/), [biologicalsciences.uchicago.edu/faculty/jooyoung-sohn](https://biologicalsciences.uchicago.edu/faculty/jooyoung-sohn)
 - Dr. Mendez’s CCRR Research Project: [www.ccrrp.mx](https://www.ccrrp.mx/)
 - Dr. Segre at IIT: [iit.edu/directory/people/carlo-segre](https://www.iit.edu/directory/people/carlo-segre)
 - [Derrick168.Github.io](https://derrick168.github.io/)
