@@ -2,6 +2,12 @@
 I am deeply passionate about STEM, with interests ranging from chemistry to ecosystem water quality, physics to electrical circuit projects, dental science to biomedical research to food science, and website development to media creation. I am particularly fascinated by hands-on projects, where I can see tangible results. While coding intrigues me, the combination of building electrical, mechanical, mechatronic, and medical devices alongside coding perfectly aligns with my academic and career goals. This multidisciplinary approach satisfies my intellectual curiosity and positions me to make meaningful contributions in electrical and biomedical engineering. I am eager to pursue this path in my undergraduate studies, where I can further hone my skills and work toward innovative solutions that have a real-world impact.
 
 ## Experience
+### Student Leadership Advisory Council, Stevenson High School, IL, Aug 2024 - Present
+- Facilitated communication between groups.
+- Served as an advisor to administration.
+- Presented ideas, concerns, and solutions for school improvement.
+- Acted as a sounding board for the community, administration, and faculty, exploring new ideas.
+
 ### Research Intern, Dept. of Radiation & Cellular Oncology, University of Chicago, IL, Apr 2024 - Present
 - Designed, built, & tested applications of restraint apparatuses for radiation therapy.
 - Co-authored board-reviewed research paper.
