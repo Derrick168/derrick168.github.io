@@ -1,7 +1,6 @@
 ## Educational Objective
 I am deeply passionate about STEM, with interests ranging from chemistry to ecosystem water quality, physics to electrical circuit projects, dental science to biomedical research to food science, and website development to media creation. I am particularly fascinated by hands-on projects, where I can see tangible results. While coding intrigues me, the combination of building electrical, mechanical, mechatronic, and medical devices alongside coding perfectly aligns with my academic and career goals. This multidisciplinary approach satisfies my intellectual curiosity and positions me to make meaningful contributions in electrical and biomedical engineering. I am eager to pursue this path in my undergraduate studies, where I can further hone my skills and work toward innovative solutions that have a real-world impact.
-##   
-##   
+
 ## Experience
 ### Research Intern, Dept. of Radiation & Cellular Oncology, University of Chicago, IL, Apr 2024 - Present
 - Designed, built, & tested applications of restraint apparatuses for radiation therapy.
@@ -137,19 +136,19 @@ Web Hosting, eCommerce Website Design and Development, Python, Java, Javascript,
 Enjoy Cooking, Scuba Diving, Lifting, Playing Cello/Piano, Watching Movies, Playing Poker
 
 ## References
-Stevenson Mental Health Promotion: StevensonMHP.com
-Community Service Portfolio: innerview.org/derricklee
-Help our community to Donate and Resell:  DeclutterAndDonate.org, ★★★★★ Promotion Demo 
-Swim Bio: swimcloud.com/swimmer/1495750  
+- Stevenson Mental Health Promotion: StevensonMHP.com
+- Community Service Portfolio: innerview.org/derricklee
+- Help our community to Donate and Resell:  DeclutterAndDonate.org, ★★★★★ Promotion Demo 
+- Swim Bio: swimcloud.com/swimmer/1495750  
                   swimmingrank.com/ii/strokes/strokes_il/DMEYRALGE_meets.html
-GLASA Volunteer Coordinator: volunteer@glasa.org, glasa.org
-Special Olympic Illinois Volunteer Coordinator: jkelso@soill.org, soill.org
-West Point Summer Leadership Program:  Me on the Admission Instagram
-Dr. James Sohn: biologicalsciences.uchicago.edu/faculty/jooyoung-sohn
-Dr. Mendez’s CCRR Research Project: www.ccrrp.mx
-Dr. Segre at IIT: iit.edu/directory/people/carlo-segre
-Facebook.com/derrickleefacebook
-DeclutterAndDonate.org/Derrickleeresume369258147
-Linkedin.com/in/derrickinfo
-youtube.com/@derricklee3178/videos
+- GLASA Volunteer Coordinator: volunteer@glasa.org, glasa.org
+- Special Olympic Illinois Volunteer Coordinator: jkelso@soill.org, soill.org
+- West Point Summer Leadership Program:  Me on the Admission Instagram
+- Dr. James Sohn: biologicalsciences.uchicago.edu/faculty/jooyoung-sohn
+- Dr. Mendez’s CCRR Research Project: www.ccrrp.mx
+- Dr. Segre at IIT: iit.edu/directory/people/carlo-segre
+- Facebook.com/derrickleefacebook
+- DeclutterAndDonate.org/Derrickleeresume369258147
+- Linkedin.com/in/derrickinfo
+- youtube.com/@derricklee3178/videos
   
