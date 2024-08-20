@@ -137,7 +137,7 @@ Enjoy Cooking, Scuba Diving, Lifting, Playing Cello/Piano, Watching Movies, Play
 
 ## References
 - Stevenson Mental Health Promotion: StevensonMHP.com
-- Community Service Portfolio: innerview.org/derricklee
+- Community Service Portfolio: [innerview.org/derricklee](https://innerview.org/derricklee)
 - Help our community to Donate and Resell:  DeclutterAndDonate.org, ★★★★★ Promotion Demo 
 - Swim Bio: swimcloud.com/swimmer/1495750  
                   swimmingrank.com/ii/strokes/strokes_il/DMEYRALGE_meets.html
