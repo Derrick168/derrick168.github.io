@@ -156,6 +156,6 @@ Enjoy Cooking, Scuba Diving, Lifting, Playing Cello/Piano, Watching Movies, Play
 - Dr. Segre at IIT: [iit.edu/directory/people/carlo-segre](https://www.iit.edu/directory/people/carlo-segre)
 - [Derrick168.Github.io](https://derrick168.github.io/)
 - [Facebook.com/derrickleefacebook](https://www.facebook.com/derrickleefaceboo)
-- [Linkedin.com/in/derrickinfo](https://www.linkedin.com/in/derrickinfo/)
+- [Linkedin.com/in/derricklee-info](https://www.linkedin.com/in/derricklee-info/)
 - [YouTube.com/@derricklee3178/videos](https://www.youtube.com/@derricklee3178/videos)
   
