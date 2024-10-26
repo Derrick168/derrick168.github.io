@@ -13,7 +13,7 @@ I am deeply passionate about STEM, with interests ranging from chemistry to ecos
 - Co-authored board-reviewed research paper.
 - Prepared Regeneron 2024 Science Talent Search (STS) submission.
 - Paper available upon request.
--  Project proposal and progress(https://derrick168.github.io/Dupuytren-Contracture/).
+- Project proposal and progress [https://derrick168.github.io/Dupuytren-Contracture/](https://derrick168.github.io/Dupuytren-Contracture/).
   
 ### HOSA Executive Director, Stevenson High School, IL, Feb 2024 - Present
 - Managed a large membership base(350+).
