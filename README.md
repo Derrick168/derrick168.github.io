@@ -12,8 +12,8 @@ I am deeply passionate about STEM, with interests ranging from chemistry to ecos
 - Designed, built, & tested applications of restraint apparatuses for radiation therapy.
 - Co-authored board-reviewed research paper.
 - Prepared Regeneron 2024 Science Talent Search (STS) submission.
-- Paper available upon request.
-- Project proposal and progress [https://derrick168.github.io/Dupuytren-Contracture/](https://derrick168.github.io/Dupuytren-Contracture/).
+- Research Paper available upon request.
+- Research Project proposal and progress [https://derrick168.github.io/Dupuytren-Contracture/](https://derrick168.github.io/Dupuytren-Contracture/).
 - Research Conference [https://derrick168.github.io/Dupuytren-Contracture/Conference.html](https://derrick168.github.io/Dupuytren-Contracture/Conference.html).
   
 ### HOSA Executive Director, Stevenson High School, IL, Feb 2024 - Present
