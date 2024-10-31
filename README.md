@@ -109,7 +109,7 @@ I am deeply passionate about STEM, with interests ranging from chemistry to ecos
 - Essential Human Biology: Cells and Tissues.
 
 ### Midwest Young Artists, 2010 - 2024
-- Suzuki Cello (Book 1 to 8).
+- Suzuki Cello (Book 1 to 9).
 - Full Instructional Piano.
   
 ## Honors and Awards
