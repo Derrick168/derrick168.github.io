@@ -1,9 +1,9 @@
-## 
-- Community Project: [DeclutterAndDonate.org](https://declutteranddonate.org/), [★★★★★ Promotion Demo](https://www.youtube.com/watch?v=b5ek72UU21w)
+## Portfolio Highlight
+- Community Project 1: Donate Your Clutter to Make an Impact on Our Community! [DeclutterAndDonate.org](https://declutteranddonate.org/), [★★★★★ Promotion Demo](https://www.youtube.com/watch?v=b5ek72UU21w)
+- Community Project 2: Stevenson Mental Health Promotion: [StevensonMHP.com](https://stevensonmhp.com/)
+- Community Service Portfolio: [innerview.org/derricklee](https://innerview.org/derricklee)
 - UChicago Research Project proposal and progress: [https://derrick168.github.io/Dupuytren-Contracture/](https://derrick168.github.io/Dupuytren-Contracture/).
 - Uchicaogo Research Conference: [https://derrick168.github.io/Dupuytren-Contracture/conference.html](https://derrick168.github.io/Dupuytren-Contracture/conference.html).
-- Stevenson Mental Health Promotion: [StevensonMHP.com](https://stevensonmhp.com/)
-- Community Service Portfolio: [innerview.org/derricklee](https://innerview.org/derricklee)
 - West Point Summer Leadership Program:  [Me featured on the Admissions Instagram](https://www.instagram.com/westpointadmissions/reel/C7__KPiOrdt/?hl=en)
 - Github: [Derrick168.Github.io](https://derrick168.github.io/)
 - Facebook: [Facebook.com/derrickleefacebook](https://www.facebook.com/derrickleefaceboo)
