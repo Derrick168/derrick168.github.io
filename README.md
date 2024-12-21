@@ -1,5 +1,7 @@
 ## Portfolio Highlight
-- Community Project 1: Donate Your Clutter to Make an Impact on Our Community! [DeclutterAndDonate.org](https://declutteranddonate.org/), [★★★★★ Promotion Demo](https://www.youtube.com/watch?v=b5ek72UU21w)
+- Community Project 1: Donate Your Clutter to Make an Impact on Our Community!
+-                      [www.DeclutterAndDonate.org](https://declutteranddonate.org/)
+-                      [Promotion Demo](https://www.youtube.com/watch?v=b5ek72UU21w)
 - Community Project 2: Stevenson Mental Health Promotion: [StevensonMHP.com](https://stevensonmhp.com/)
 - Community Service Portfolio: [innerview.org/derricklee](https://innerview.org/derricklee)
 - UChicago Research Project proposal and progress: [https://derrick168.github.io/Dupuytren-Contracture/](https://derrick168.github.io/Dupuytren-Contracture/).
