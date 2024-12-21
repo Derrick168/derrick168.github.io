@@ -1,4 +1,4 @@
-## Portfolio Highlight
+## Portfolio Highlights
 - Community Project 1: Donate Your Clutter to Make an Impact on Our Community [Promotion Demo](https://www.youtube.com/watch?v=b5ek72UU21w), [www.DeclutterAndDonate.org](https://declutteranddonate.org/)                 
 - Community Project 2: Stevenson Mental Health Promotion: [www.StevensonMHP.com](https://stevensonmhp.com/)
 - Community Service Portfolio: [innerview.org/derricklee](https://innerview.org/derricklee)
