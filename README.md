@@ -35,7 +35,7 @@ I am deeply passionate about STEM, with interests ranging from chemistry to ecos
 - A non-profit eCommerce fundraising platform that effectively and efficiently raises money by reselling donated items.
 - As part of Fundraising Committee Member and Classroom Leader of Give-A-Thon, a school's largest student-led fundraiser(raised a total of $31,00 in 2023). - This app successfully raised $1000+.
 - 2024 Congressional App Challenge competition participant (result awaiting in December 2024).
-- 
+  
 ### Student Leadership Advisory Council, Stevenson High School, IL, Aug 2024 - Present
 - Provided communication between groups.
 - Served as an advisor to administration.
