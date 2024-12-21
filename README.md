@@ -1,13 +1,21 @@
+## 
+- Community Project: [DeclutterAndDonate.org](https://declutteranddonate.org/), [★★★★★ Promotion Demo](https://www.youtube.com/watch?v=b5ek72UU21w)
+- UChicago Research Project proposal and progress: [https://derrick168.github.io/Dupuytren-Contracture/](https://derrick168.github.io/Dupuytren-Contracture/).
+- Uchicaogo Research Conference: [https://derrick168.github.io/Dupuytren-Contracture/conference.html](https://derrick168.github.io/Dupuytren-Contracture/conference.html).
+- Stevenson Mental Health Promotion: [StevensonMHP.com](https://stevensonmhp.com/)
+- Community Service Portfolio: [innerview.org/derricklee](https://innerview.org/derricklee)
+- West Point Summer Leadership Program:  [Me featured on the Admissions Instagram](https://www.instagram.com/westpointadmissions/reel/C7__KPiOrdt/?hl=en)
+- Github: [Derrick168.Github.io](https://derrick168.github.io/)
+- Facebook: [Facebook.com/derrickleefacebook](https://www.facebook.com/derrickleefaceboo)
+- LinkedIn: [Linkedin.com/in/derricklee-info](https://www.linkedin.com/in/derricklee-info/)
+- YouTube: [YouTube.com/@derricklee3178/videos](https://www.youtube.com/@derricklee3178/videos)
+- Swim Bio: [swimcloud.com/swimmer/1495750 ](https://www.swimcloud.com/swimmer/1495750/) 
+  [swimmingrank.com/ii/strokes/strokes_il/DMEYRALGE_meets.html](https://www.swimmingrank.com/ii/strokes/strokes_il/DMEYRALGE_meets.html)
+  
 ## Educational Objective
 I am deeply passionate about STEM, with interests ranging from chemistry to ecosystem water quality, physics to electrical circuit projects, dental science to biomedical research to food science, and website development to media creation. I am particularly fascinated by hands-on projects, where I can see tangible results. While coding intrigues me, the combination of building electrical, mechanical, mechatronic, and medical devices alongside coding perfectly aligns with my academic and career goals. This multidisciplinary approach satisfies my intellectual curiosity and positions me to make meaningful contributions in electrical and biomedical engineering. I am eager to pursue this path in my undergraduate studies, where I can further hone my skills and work toward innovative solutions that have a real-world impact.
 
 ## Experience
-### Student Leadership Advisory Council, Stevenson High School, IL, Aug 2024 - Present
-- Provided communication between groups.
-- Served as an advisor to administration.
-- Presented ideas, concerns, and solutions for school improvement.
-- Acted as a sounding board for the community, administration, and faculty, exploring new ideas.
-
 ### Research Intern, Dept. of Radiation & Cellular Oncology, University of Chicago, IL, Apr 2024 - Present
 - Designed, built, & tested applications of restraint apparatuses for radiation therapy.
 - Co-authored board-reviewed research paper.
@@ -15,18 +23,24 @@ I am deeply passionate about STEM, with interests ranging from chemistry to ecos
 - Research Paper available upon request.
 - Research Project proposal and progress: [https://derrick168.github.io/Dupuytren-Contracture/](https://derrick168.github.io/Dupuytren-Contracture/).
 - Research Conference: [https://derrick168.github.io/Dupuytren-Contracture/conference.html](https://derrick168.github.io/Dupuytren-Contracture/conference.html).
-  
-### HOSA Executive Director, Stevenson High School, IL, Feb 2024 - Present
+
+### HOSA Executive Director, Stevenson High School, IL, Feb 2023 - Present
 - Managed a large membership base(350+).
 - Made weekly meeting presentations. - Constructed mentor groups following registration.
 - Led the HOSA leader program - Advocated for the club within the Stevenson community.
-  
+
 ### Founder and Web Developer, DeclutterAndDonate.org, Long Grove, IL, Jan  2023 - Present
 - A non-profit eCommerce fundraising platform that effectively and efficiently raises money by reselling donated items.
 - As part of Fundraising Committee Member and Classroom Leader of Give-A-Thon, a school's largest student-led fundraiser(raised a total of $31,00 in 2023). - This app successfully raised $1000+.
 - 2024 Congressional App Challenge competition participant (result awaiting in December 2024).
-  
-### Executive Committee Officer, Lillydahl Aquatic Leadership Academy, Lincolnshire, IL, Jun 2023 - Present
+- 
+### Student Leadership Advisory Council, Stevenson High School, IL, Aug 2024 - Present
+- Provided communication between groups.
+- Served as an advisor to administration.
+- Presented ideas, concerns, and solutions for school improvement.
+- Acted as a sounding board for the community, administration, and faculty, exploring new ideas.
+
+### Vrasity Swim Team Captain, Lincolnshire, IL, Jun 2023 - Present
 - Team Leader in JV and Varsity swim team.
 - Created a support and encouragement system within team.
 - Discussed methods to uphold health wellness.
@@ -96,7 +110,7 @@ I am deeply passionate about STEM, with interests ranging from chemistry to ecos
 - Immersed myself in cadet life - Rigorous training: academics, military exercises, and team-building
 - Developed leadership skills and experienced the comprehensive West Point environment.
   
-### Stanford University, Summer 2024
+### Stanford University, Summer 2023
 - Machine Learning, AI for Healthcare Specialization Certificate.
   
 ### Georgetown University, Summer 2023
@@ -114,17 +128,18 @@ I am deeply passionate about STEM, with interests ranging from chemistry to ecos
   
 ## Honors and Awards
 - National Merit Semifinalist, 2024
-- AP Scholar with Distinction, 2024
-- HOSA National/International Qualifier, 2024
+- HOSA National/International Semifinalist, 2024
 - 2nd place for Mental Health Promotion and 3rd place for Dental Science at State - HOSA (Illinois), 2023 - 2024
+- AP Scholar with Distinction, 2024
+- IHSA Illinois State Boys Swim Champions, 2022 - 2023
+- IHSA Sectional Boys Swim Champions, 2022 - 2024
 - Illinois State Scholar, 2024
 - National Honor Society, 2023 - 2024
 - IHSA Scholastic Achievement Award, 2022 - 2024
 - 3x National Community Service Ambassador Award (Highest level), 2022 - 2024
 - Gold President’s Volunteer Service Award, 2022 - 2023
-- IHSA Sectional Boys Swim Champions, 2022 - 2024
-- Central Zone Swimming North Sectional: Top 20 Finalist, Summer 2021 - 2024
-- Illinois State Swimming Senior Championship: Top 27 Finalist, Summer 2021 - 2024
+- Central Zone Swimming North Sectional: Top 20 Finalist, Summer 2021 - 2025
+- Illinois State Swimming Senior Championship: Top 27 Finalist, Summer 2021 - 2025
 - Illinois State Swimming Age Group: Top 16 Finalist, Summer 2021
 - 2nd Place at State for Boomilever and 5th Place at State  for Food Science- Science Olympia (Illinois), May 2021
 
@@ -146,19 +161,9 @@ Web Hosting, eCommerce Website Design and Development, Python, Java, Javascript,
 Enjoy Cooking, Scuba Diving, Lifting, Playing Cello/Piano, Watching Movies, Playing Poker
 
 ## References
-- Stevenson Mental Health Promotion: [StevensonMHP.com](https://stevensonmhp.com/)
-- Community Service Portfolio: [innerview.org/derricklee](https://innerview.org/derricklee)
-- Help our community to Donate and Resell:  [DeclutterAndDonate.org](https://declutteranddonate.org/), [★★★★★ Promotion Demo](https://www.youtube.com/watch?v=b5ek72UU21w)
-- Swim Bio: [swimcloud.com/swimmer/1495750 ](https://www.swimcloud.com/swimmer/1495750/) 
-  [swimmingrank.com/ii/strokes/strokes_il/DMEYRALGE_meets.html](https://www.swimmingrank.com/ii/strokes/strokes_il/DMEYRALGE_meets.html)
-- GLASA Volunteer Coordinator: volunteer@glasa.org, [glasa.org](https://glasa.org/)
-- Special Olympic Illinois Volunteer Coordinator: jkelso@soill.org, [soill.org](https://www.soill.org/)
-- West Point Summer Leadership Program:  [Me featured on the Admissions Instagram](https://www.instagram.com/westpointadmissions/reel/C7__KPiOrdt/?hl=en)
 - Dr. James Sohn: [Sohn Lab's](https://www.sohnlab.uchicago.edu/our-members/), [biologicalsciences.uchicago.edu/faculty/jooyoung-sohn](https://biologicalsciences.uchicago.edu/faculty/jooyoung-sohn)
 - Dr. Mendez’s CCRR Research Project: [www.ccrrp.mx](https://www.ccrrp.mx/)
 - Dr. Segre at IIT: [iit.edu/directory/people/carlo-segre](https://www.iit.edu/directory/people/carlo-segre)
-- [Derrick168.Github.io](https://derrick168.github.io/)
-- [Facebook.com/derrickleefacebook](https://www.facebook.com/derrickleefaceboo)
-- [Linkedin.com/in/derricklee-info](https://www.linkedin.com/in/derricklee-info/)
-- [YouTube.com/@derricklee3178/videos](https://www.youtube.com/@derricklee3178/videos)
-  
+- GLASA Volunteer Coordinator: volunteer@glasa.org, [glasa.org](https://glasa.org/)
+- Special Olympic Illinois Volunteer Coordinator: jkelso@soill.org, [soill.org](https://www.soill.org/)
+ 
