@@ -109,9 +109,9 @@ I am deeply passionate about STEM, with interests ranging from chemistry to ecos
 - Freshman: Geometry HN (Not permitted to enroll in AP courses for all freshmen).	
   
 ### United States Military Academy at West Point, Summer 2024
-- Summer Leaders Experience
+- Summer Leaders Experience.
 - Highly selective program, 7% acceptance.
-- Immersed myself in cadet life - Rigorous training: academics, military exercises, and team-building
+- Immersed myself in cadet life - Rigorous training: academics, military exercises, and team-building.
 - Developed leadership skills and experienced the comprehensive West Point environment.
   
 ### Stanford University, Summer 2023
@@ -156,13 +156,13 @@ I am deeply passionate about STEM, with interests ranging from chemistry to ecos
 - PADI Open Water Scuba Diver Certificate, Mar 2022
 
 ## School Sport and Clubs
-Varsity Swim Team, HOSA International Team, Give-A-Thon fundraising, Student Ambassadors, Lillydahl Aquatic Leadership Academy, NHS, ACES/WYSE Team, Chemistry Club, Biology Olympiad, Key Club
+Varsity Swim Team, HOSA International Team, Give-A-Thon fundraising, Student Ambassadors, Lillydahl Aquatic Leadership Academy, NHS, ACES/WYSE Team, and Biology Olympiad.
 
 ## Skills
-Web Hosting, eCommerce Website Design and Development, Python, Java, Javascript, HTML, MySQL phpMyadmin, Autodesk Fusion, Inventor 3D CAD, CAD Modeling, MultiSim Circuit Design, Breadboard for Electronics and Circuits, Research, Fundraising, Analytical Skills, Microsoft Word/Excel/PowerPoint
+Web Hosting, eCommerce Website Design and Development, Python, Java, Javascript, HTML, MySQL phpMyadmin, Autodesk Fusion, Inventor 3D CAD, CAD Modeling, MultiSim Circuit Design, Breadboard for Electronics and Circuits, Research, Fundraising, Analytical Skills, and Microsoft Word/Excel/PowerPoint.
 
 ## Interests
-Enjoy Cooking, Scuba Diving, Lifting, Playing Cello/Piano, Watching Movies, Playing Poker
+Enjoy Cooking, Scuba Diving, Lifting, Playing Cello/Piano, Watching Movies, and Playing Poker.
 
 ## References
 - Dr. James Sohn: [Sohn Lab's](https://www.sohnlab.uchicago.edu/our-members/), [biologicalsciences.uchicago.edu/faculty/jooyoung-sohn](https://biologicalsciences.uchicago.edu/faculty/jooyoung-sohn)
