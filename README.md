@@ -23,6 +23,8 @@ I am deeply passionate about STEM, with interests ranging from chemistry to ecos
 - Co-authored board-reviewed research paper.
 - Prepared Regeneron 2024 Science Talent Search (STS) submission.
 - Research Paper available upon request.
+- Research Abstract: [derrick168.github.io/Dupuytren-Contracture/images/Abstract.pdf](https://derrick168.github.io/Dupuytren-Contracture/images/Abstract.pdf)
+- Research Paper (Currently in Progress): [derrick168.github.io/Dupuytren-Contracture/images/Paper.pdf](https://derrick168.github.io/Dupuytren-Contracture/images/Paper.pdf)
 - Research Project proposal and progress: [https://derrick168.github.io/Dupuytren-Contracture/](https://derrick168.github.io/Dupuytren-Contracture/).
 - Research Conference: [https://derrick168.github.io/Dupuytren-Contracture/conference.html](https://derrick168.github.io/Dupuytren-Contracture/conference.html).
 
@@ -42,7 +44,7 @@ I am deeply passionate about STEM, with interests ranging from chemistry to ecos
 - Presented ideas, concerns, and solutions for school improvement.
 - Acted as a sounding board for the community, administration, and faculty, exploring new ideas.
 
-### Vrasity Swim Team Captain, Lincolnshire, IL, Jun 2023 - Present
+### Varsity Swim Team Captain, Lincolnshire, IL, Jun 2023 - Present
 - Team Leader in JV and Varsity swim team.
 - Created a support and encouragement system within team.
 - Discussed methods to uphold health wellness.
