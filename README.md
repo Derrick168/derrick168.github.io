@@ -6,7 +6,6 @@
 - UChicago Research Paper (Currently in Progress): [derrick168.github.io/Dupuytren-Contracture/images/Paper.pdf](https://derrick168.github.io/Dupuytren-Contracture/images/Paper.pdf)
 - UChicago Research Project proposal and progress: [derrick168.github.io/Dupuytren-Contracture/](https://derrick168.github.io/Dupuytren-Contracture/).
 - UChicaogo Research Conference: [derrick168.github.io/Dupuytren-Contracture/conference.html](https://derrick168.github.io/Dupuytren-Contracture/conference.html).
-- West Point Summer Leadership Program:  [I was featured on the Admissions Instagram](https://www.instagram.com/westpointadmissions/reel/C7__KPiOrdt/?hl=en)
 - Github: [Derrick168.Github.io](https://derrick168.github.io/)
 - Facebook: [Facebook.com/derrickleefacebook](https://www.facebook.com/derrickleefaceboo)
 - LinkedIn: [Linkedin.com/in/derricklee-info](https://www.linkedin.com/in/derricklee-info/)
@@ -113,6 +112,7 @@ I am deeply passionate about STEM, with interests ranging from chemistry to ecos
 - Highly selective program, 7% acceptance.
 - Immersed myself in cadet life - Rigorous training: academics, military exercises, and team-building.
 - Developed leadership skills and experienced the comprehensive West Point environment.
+- [I was on the Admissions Instagram](https://www.instagram.com/westpointadmissions/reel/C7__KPiOrdt/?hl=en)
   
 ### Stanford University, Summer 2023
 - Machine Learning, AI for Healthcare Specialization Certificate.
