@@ -4,7 +4,7 @@
 - Community Service Portfolio: [innerview.org/derricklee](https://innerview.org/derricklee)
 - UChicago Research Project proposal and progress: [https://derrick168.github.io/Dupuytren-Contracture/](https://derrick168.github.io/Dupuytren-Contracture/).
 - Uchicaogo Research Conference: [https://derrick168.github.io/Dupuytren-Contracture/conference.html](https://derrick168.github.io/Dupuytren-Contracture/conference.html).
-- West Point Summer Leadership Program:  [Me featured on the Admissions Instagram](https://www.instagram.com/westpointadmissions/reel/C7__KPiOrdt/?hl=en)
+- West Point Summer Leadership Program:  [I was featured on the Admissions Instagram](https://www.instagram.com/westpointadmissions/reel/C7__KPiOrdt/?hl=en)
 - Github: [Derrick168.Github.io](https://derrick168.github.io/)
 - Facebook: [Facebook.com/derrickleefacebook](https://www.facebook.com/derrickleefaceboo)
 - LinkedIn: [Linkedin.com/in/derricklee-info](https://www.linkedin.com/in/derricklee-info/)
